@@ -1,6 +1,6 @@
 //
 //  TranslateViewModel.swift
-//  iosApp
+//  iosTranslatorApp
 //
 //  Created by ahmed on 29/12/2024.
 //  Copyright © 2024 orgName. All rights reserved.
