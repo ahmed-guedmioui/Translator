@@ -1,4 +1,4 @@
-package com.ag_apps.translator
+package com.ag_apps.translator.translate
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

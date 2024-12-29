@@ -1,4 +1,4 @@
-package com.ag_apps.translator.di
+package com.ag_apps.translator.data.core.di
 
 import com.ag_apps.translator.data.translate.local.RoomHistoryDataSource
 import com.ag_apps.translator.data.translate.remote.KtorTranslateClient

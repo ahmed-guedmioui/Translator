@@ -1,7 +1,7 @@
 package com.ag_apps.translator
 
 import android.app.Application
-import com.ag_apps.translator.di.initKoin
+import com.ag_apps.translator.core.di.presentationModule
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.logger.Level
@@ -13,6 +13,7 @@ class Application: Application() {
         initKoin {
             androidContext(this@Application)
             androidLogger(Level.DEBUG)
+            modules(presentationModule)
         }
     }
 }
