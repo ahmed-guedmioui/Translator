@@ -1,6 +1,5 @@
 package com.ag_apps.translator.domain.core.util
 
-import com.ag_apps.translator.domain.core.util.CommonFlow
 import kotlinx.coroutines.flow.FlowCollector
 import kotlinx.coroutines.flow.StateFlow
 

@@ -3,7 +3,7 @@ import Shared
 
 struct ContentView: View {
     @State private var showContent = false
-    
+
     var body: some View {
         VStack {
             Button("Click me!") {
